@@ -2,7 +2,7 @@
 - 👀 I’m interested in discord.js and minecraft hosting!
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on making a discord bot!
-- 📫 How to reach me skyluetz#0001 ( Discord ) 
+- 📫 How to reach me skyluetz#7078 ( Discord ) 
 
 <!---
 TheDevSky/TheDevSky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
